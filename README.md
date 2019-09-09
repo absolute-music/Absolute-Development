@@ -2,8 +2,8 @@
 
 We are a non profit organization that create discord bots. 
 
-If you need help, create an issue at the issue tab above or check out the wiki.
+If you need help, create an issue at the issue tab and label it with question tab, feature request will also be created in issue tag above but tagged features request
 
-To suggest a feature, create a pull request at the pull request tab above.
+check out the wikiis also a good idea to get help.
 
 We will have docs on all of our three bots.
