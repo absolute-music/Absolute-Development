@@ -7,3 +7,4 @@ If you need help, create an issue at the issue tab and label it with question ta
 check out the wikiis also a good idea to get help.
 
 We will have docs on all of our three bots.
+test
