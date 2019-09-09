@@ -1,3 +1,3 @@
 # Change Log
 
-1. github added
+1. github added, on beta
