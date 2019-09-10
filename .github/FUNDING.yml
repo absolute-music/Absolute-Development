@@ -1,5 +1,3 @@
-# These are supported funding model platforms
-
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-vultr: https://vultr.com
-
+github: [Absolute-Development]
+tidelift: npm/octo-package
+custom: https://vultr.com
