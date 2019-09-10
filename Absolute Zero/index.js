@@ -229,4 +229,4 @@ fs.readdir("./commands/", (err, files) => {
         });
 });
 
-client.login('NTgzODM1NTAxNzQ0ODgxNjY0.XWHiOA.f85Ai95XDKD-fLmAZ85_YaTP-LM');
+client.login('I can not show it to you');
