@@ -7,3 +7,7 @@ If you need help, create an issue at the issue tab and label it with question ta
 check out the wikis also a good idea to get help.
 
 We will have docs on all of our three bots.
+
+# Want to use it?
+
+Sure! This could be use in any purpose!
